@@ -1,1 +1,1 @@
-#REST-API Node app for shopping cart project
+Frontend files attached with the project
