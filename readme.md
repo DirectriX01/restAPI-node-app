@@ -17,6 +17,3 @@
 * The backend is built using Node.js framework along with express routers. 
 * The REST-API is implemented along the lines of MVC Model.
 *  mongoDB is used for storing data. However for performing database level interactions we use mongoose which is a library built to perform mongoDB documents operations easily.
-
-
-
