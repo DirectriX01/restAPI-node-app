@@ -10,7 +10,7 @@
     * Running the frontend
         * Open a new window of your terminal/IDE and navigate into the same folder.
         * Run `git checkout frontendFiles` to change the branch to frontendFiles.
-        * Install the dependencies using `npm install`. Note this will take time since dependencies of React-App are huge    
+        * Install the dependencies using `npm build`. Note this will take time since dependencies of React-App are huge    
         * After installing, run the frontend live using `npm start`
 
 ## Description of the Project ##
